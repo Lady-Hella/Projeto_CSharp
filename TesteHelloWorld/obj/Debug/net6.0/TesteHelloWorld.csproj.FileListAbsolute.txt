@@ -1,0 +1,15 @@
+C:\Users\usuario\source\repos\TesteHelloWorld\TesteHelloWorld\bin\Debug\net6.0\TesteHelloWorld.exe
+C:\Users\usuario\source\repos\TesteHelloWorld\TesteHelloWorld\bin\Debug\net6.0\TesteHelloWorld.deps.json
+C:\Users\usuario\source\repos\TesteHelloWorld\TesteHelloWorld\bin\Debug\net6.0\TesteHelloWorld.runtimeconfig.json
+C:\Users\usuario\source\repos\TesteHelloWorld\TesteHelloWorld\bin\Debug\net6.0\TesteHelloWorld.dll
+C:\Users\usuario\source\repos\TesteHelloWorld\TesteHelloWorld\bin\Debug\net6.0\TesteHelloWorld.pdb
+C:\Users\usuario\source\repos\TesteHelloWorld\TesteHelloWorld\obj\Debug\net6.0\TesteHelloWorld.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\TesteHelloWorld\TesteHelloWorld\obj\Debug\net6.0\TesteHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\TesteHelloWorld\TesteHelloWorld\obj\Debug\net6.0\TesteHelloWorld.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\TesteHelloWorld\TesteHelloWorld\obj\Debug\net6.0\TesteHelloWorld.AssemblyInfo.cs
+C:\Users\usuario\source\repos\TesteHelloWorld\TesteHelloWorld\obj\Debug\net6.0\TesteHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\TesteHelloWorld\TesteHelloWorld\obj\Debug\net6.0\TesteHelloWorld.dll
+C:\Users\usuario\source\repos\TesteHelloWorld\TesteHelloWorld\obj\Debug\net6.0\refint\TesteHelloWorld.dll
+C:\Users\usuario\source\repos\TesteHelloWorld\TesteHelloWorld\obj\Debug\net6.0\TesteHelloWorld.pdb
+C:\Users\usuario\source\repos\TesteHelloWorld\TesteHelloWorld\obj\Debug\net6.0\TesteHelloWorld.genruntimeconfig.cache
+C:\Users\usuario\source\repos\TesteHelloWorld\TesteHelloWorld\obj\Debug\net6.0\ref\TesteHelloWorld.dll
