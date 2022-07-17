@@ -1,0 +1,16 @@
+C:\Users\usuario\Desktop\Thais\CSharp\Atividade_IMC\CalculadoraDeIMC2\CalculadoraDeIMC2\bin\Debug\net5.0\CalculadoraDeIMC2.exe
+C:\Users\usuario\Desktop\Thais\CSharp\Atividade_IMC\CalculadoraDeIMC2\CalculadoraDeIMC2\bin\Debug\net5.0\CalculadoraDeIMC2.deps.json
+C:\Users\usuario\Desktop\Thais\CSharp\Atividade_IMC\CalculadoraDeIMC2\CalculadoraDeIMC2\bin\Debug\net5.0\CalculadoraDeIMC2.runtimeconfig.json
+C:\Users\usuario\Desktop\Thais\CSharp\Atividade_IMC\CalculadoraDeIMC2\CalculadoraDeIMC2\bin\Debug\net5.0\CalculadoraDeIMC2.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\Thais\CSharp\Atividade_IMC\CalculadoraDeIMC2\CalculadoraDeIMC2\bin\Debug\net5.0\CalculadoraDeIMC2.dll
+C:\Users\usuario\Desktop\Thais\CSharp\Atividade_IMC\CalculadoraDeIMC2\CalculadoraDeIMC2\bin\Debug\net5.0\CalculadoraDeIMC2.pdb
+C:\Users\usuario\Desktop\Thais\CSharp\Atividade_IMC\CalculadoraDeIMC2\CalculadoraDeIMC2\obj\Debug\net5.0\CalculadoraDeIMC2.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Thais\CSharp\Atividade_IMC\CalculadoraDeIMC2\CalculadoraDeIMC2\obj\Debug\net5.0\CalculadoraDeIMC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Thais\CSharp\Atividade_IMC\CalculadoraDeIMC2\CalculadoraDeIMC2\obj\Debug\net5.0\CalculadoraDeIMC2.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Thais\CSharp\Atividade_IMC\CalculadoraDeIMC2\CalculadoraDeIMC2\obj\Debug\net5.0\CalculadoraDeIMC2.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Thais\CSharp\Atividade_IMC\CalculadoraDeIMC2\CalculadoraDeIMC2\obj\Debug\net5.0\CalculadoraDeIMC2.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Thais\CSharp\Atividade_IMC\CalculadoraDeIMC2\CalculadoraDeIMC2\obj\Debug\net5.0\CalculadoraDeIMC2.dll
+C:\Users\usuario\Desktop\Thais\CSharp\Atividade_IMC\CalculadoraDeIMC2\CalculadoraDeIMC2\obj\Debug\net5.0\refint\CalculadoraDeIMC2.dll
+C:\Users\usuario\Desktop\Thais\CSharp\Atividade_IMC\CalculadoraDeIMC2\CalculadoraDeIMC2\obj\Debug\net5.0\CalculadoraDeIMC2.pdb
+C:\Users\usuario\Desktop\Thais\CSharp\Atividade_IMC\CalculadoraDeIMC2\CalculadoraDeIMC2\obj\Debug\net5.0\CalculadoraDeIMC2.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Thais\CSharp\Atividade_IMC\CalculadoraDeIMC2\CalculadoraDeIMC2\obj\Debug\net5.0\ref\CalculadoraDeIMC2.dll
